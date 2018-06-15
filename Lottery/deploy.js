@@ -5,8 +5,8 @@ const { interface, bytecode } = require('./compile');
 const provider = new HDWalletProvider(
 //  'exhibit pride hold spy ask firm easy panther runway thumb one purpose',
 //  'https://ropsten.infura.io/UQXTaan7AZ5i9yU5aSga'
-    'half develop drum pull caution jungle february spike universe used pelican scan',
-    'https://ropsten.infura.io/poGREhs4uL3Zh8wGrc8X'
+    'metamask mnemonic pharse',
+    'https://ropsten.infura.io/poGREhs'
 );
 
 const web3 = new Web3(provider);
